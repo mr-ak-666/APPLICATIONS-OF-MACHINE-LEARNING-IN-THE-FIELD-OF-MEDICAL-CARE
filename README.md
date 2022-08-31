@@ -1,0 +1,2 @@
+# APPLICATIONS-OF-MACHINE-LEARNING-IN-THE-FIELD-OF-MEDICAL-CARE
+This is a project based on machine learning in the field of medical care. Medical care has several important functions other than restoring or maintaining health. These other functions are assessment and certification of health status, prognostication, segregation of the ill to limit communication of illness, and helping to cope with the problems of illness--the caring function.
